@@ -11,3 +11,4 @@ select.add_product()
 
 checkout = Checkout(driver)
 checkout.place_order()
+
